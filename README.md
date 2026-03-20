@@ -17,7 +17,6 @@
 
 </div>
 
----
 
 <table width="100%">
 <tr>
@@ -109,25 +108,11 @@ A control plane for orchestrating IoT, storage, and AI agents.
   <img src="https://skillicons.dev/icons?i=cs,py,ts,dotnet,nodejs,docker,azure,linux,react,nextjs,postgres,git&perline=6" />
 </p>
 
----
+
 
 ### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThisIsPhila&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats-flame-one-48.vercel.app/api?username=ThisIsPhila&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=1" />
 </p>
 
----
-
-### Currently Building
-
-- AI agent workflows and orchestration systems  
-- Cloud-native deployment pipelines  
-- Scalable backend architectures  
-
----
-
-### Connect
-
-[GitHub](https://github.com/ThisIsPhila) | [LinkedIn](https://www.linkedin.com/in/thisisphila/) | [X](https://x.com/ThisIsPhila_)
