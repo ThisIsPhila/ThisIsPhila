@@ -17,8 +17,7 @@
 
 </div>
 
-
-<table width="100%">
+<table align="center">
 <tr>
 <td valign="top" width="50%">
 
@@ -48,7 +47,7 @@
 
 ### Featured Projects
 
-<table width="100%">
+<table>
 <tr>
 <td valign="top" width="50%">
 
@@ -102,6 +101,13 @@ A control plane for orchestrating IoT, storage, and AI agents.
 
 ---
 
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThisIsPhila&theme=tokyonight&hide_border=true" />
+</p>
+
+
 ### Tech Stack
 
 <p align="center">
@@ -110,9 +116,5 @@ A control plane for orchestrating IoT, storage, and AI agents.
 
 
 
-### GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThisIsPhila&theme=tokyonight&hide_border=true" />
-</p>
 
